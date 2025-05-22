@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObject/ClassAndObject.iml" filepath="$PROJECT_DIR$/ClassAndObject/ClassAndObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javabytelisko.iml" filepath="$PROJECT_DIR$/.idea/javabytelisko.iml" />
+    </modules>
+  </component>
+</project>
