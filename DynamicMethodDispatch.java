@@ -23,6 +23,8 @@ class DynamicMethodDispatch {
 
        //same object which is obj is behaving defferently  with different object 
         //this is polymorphism 
+
+        //this will only work when we will have inheritance 
         A obj = new A();
         obj.show();   //In A Show
 
