@@ -13,7 +13,7 @@ public class WraperClass {
 
        String str = "12";
        int num3 = Integer.parseInt(str);
-       System.out.println(num3);
+       System.out.println(num3 * 3);
 
     }
 }
